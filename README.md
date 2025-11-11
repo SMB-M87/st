@@ -1,4 +1,5 @@
 # st
+Suckless simple terminal
 git clone https://git.suckless.org/st
 cd /st
 
